@@ -1,0 +1,17 @@
+{
+    "compilerOptions": {
+        "outDir": "./dist/",
+        "sourceMap": true,
+        "noImplicitAny": false,
+        "target": "ES5",
+        "noUnusedLocals": true,
+        "noUnusedParameters": false,
+        "noFallthroughCasesInSwitch": true,
+        "removeComments": true,
+        "experimentalDecorators": true,
+        "moduleResolution": "node"
+    },
+    "include": [
+        "./src/**/*"
+    ]
+}
